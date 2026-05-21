@@ -1,2 +1,38 @@
-# body-reset-landing
-Premium single-page web application for a massage salon with custom reverse video background, interactive physical cursor, and built-in AI chatbot.
+# Body Reset — Salon Landing Page
+
+Лендинг для салону професійного масажу **Body Reset** у Вінниці.
+
+## Технології
+
+- **HTML5** — структура
+- **Tailwind CSS** (CDN) — стилізація
+- **Lucide Icons** (CDN) — іконки
+- **Google Fonts** — шрифт Montserrat
+- **Vanilla JS** — логіка та анімації
+
+## Структура проєкту
+
+```
+body-reset/
+├── index.html                              # Основний файл лендингу
+├── e3a68e5a-ae4b-4b7b-b622-2ccf4d9b89ef.png  # Фото майстра (додайте самостійно)
+└── hf_20260428_130140_1514c409-29d5-4458-9a33-f73147e80d1d.mp4  # Фонове відео (додайте самостійно)
+```
+
+## Функціонал
+
+- 🎥 Анімований реверс-відеофон (canvas-based)
+- 🖱️ Кастомний курсор з ефектом blur-ring (desktop)
+- 📋 Онлайн-форма запису на сеанс
+- 🤖 AI-асистент (симульований) для консультацій
+- 📱 Повністю адаптивний дизайн (mobile-first)
+- ⚡ Плавна навігація зі scroll-поведінкою
+
+## Розгортання на GitHub Pages
+
+1. Завантажте всі файли до репозиторію
+2. Перейдіть у **Settings → Pages**
+3. Оберіть гілку `main`, папку `/ (root)`
+4. Збережіть — сайт буде доступний за посиланням `https://username.github.io/repo-name`
+
+> **Важливо:** Покладіть фото майстра та відеофайл поряд з `index.html` — вони підвантажуються відносними шляхами (`./`).
