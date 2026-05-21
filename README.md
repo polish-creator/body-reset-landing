@@ -1,3 +1,5 @@
+UA vers!
+
 # Body Reset — Salon Landing Page
 
 Лендинг для салону професійного масажу **Body Reset** у Вінниці.
@@ -28,11 +30,28 @@ body-reset/
 - 📱 Повністю адаптивний дизайн (mobile-first)
 - ⚡ Плавна навігація зі scroll-поведінкою
 
-## Розгортання на GitHub Pages
 
-1. Завантажте всі файли до репозиторію
-2. Перейдіть у **Settings → Pages**
-3. Оберіть гілку `main`, папку `/ (root)`
-4. Збережіть — сайт буде доступний за посиланням `https://username.github.io/repo-name`
+ENG vers!
 
-> **Важливо:** Покладіть фото майстра та відеофайл поряд з `index.html` — вони підвантажуються відносними шляхами (`./`).
+Body Reset — Salon Landing Page
+
+Landing page for the professional massage salon Body Reset in Vinnytsia.
+
+Technologies
+HTML5 — structure
+Tailwind CSS (CDN) — styling
+Lucide Icons (CDN) — icons
+Google Fonts — Montserrat font
+Vanilla JS — logic and animations
+Project Structure
+body-reset/
+├── index.html                              # Main landing page file
+├── e3a68e5a-ae4b-4b7b-b622-2ccf4d9b89ef.png  # Therapist photo (add manually)
+└── hf_20260428_130140_1514c409-29d5-4458-9a33-f73147e80d1d.mp4  # Background video (add manually)
+Features
+🎥 Animated reverse-video background (canvas-based)
+🖱️ Custom cursor with blur-ring effect (desktop)
+📋 Online booking form
+🤖 Simulated AI assistant for consultations
+📱 Fully responsive design (mobile-first)
+⚡ Smooth navigation with scroll behavior
